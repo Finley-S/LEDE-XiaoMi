@@ -3,7 +3,7 @@
 # 自用
 ## 1、AX6
 - 使用源码：https://github.com/coolsnowwolf/lede
-- 内核:5.15
+- 内核:5.10
 - 默认IP:192.168.123.1
 - 用户名：root
 - 密码：password
